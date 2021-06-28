@@ -1,0 +1,20 @@
+body {
+  background-image: url("todopic.png");
+}
+
+.containertodos {
+  position: fixed;
+  top: 250px;
+  left: 612px;
+}
+
+.completetask {
+  text-decoration: line-through;
+}
+.todolists {
+  list-style-type: none;
+}
+.todolists li {
+  margin-left: -37px;
+  margin-bottom: 14px;
+}
